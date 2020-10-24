@@ -1,0 +1,10 @@
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\bin\Debug\ssc_lab3_tema.exe.config
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\bin\Debug\ssc_lab3_tema.exe
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\bin\Debug\ssc_lab3_tema.pdb
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.csprojAssemblyReference.cache
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.Form1.resources
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.Properties.Resources.resources
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.csproj.GenerateResource.cache
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.exe
+C:\Users\bogda\Desktop\SSC\ssc_lab3_tema\ssc_lab3_tema\obj\Debug\ssc_lab3_tema.pdb
